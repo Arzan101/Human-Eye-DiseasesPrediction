@@ -1,0 +1,53 @@
+# =========================
+# DATASETS (DO NOT COMMIT)
+# =========================
+train/
+val/
+test/
+Dataset - train+val+test/
+data/
+dataset/
+datasets/
+
+# =========================
+# MODEL FILES (OPTIONAL)
+# =========================
+*.h5
+*.keras
+*.pt
+*.onnx
+
+# =========================
+# PYTHON ENVIRONMENTS
+# =========================
+venv/
+env/
+.tf_env/
+tensorflow_env/
+__pycache__/
+*.pyc
+
+# =========================
+# JUPYTER
+# =========================
+.ipynb_checkpoints/
+*.ipynb
+
+# =========================
+# STREAMLIT / CACHE
+# =========================
+.streamlit/
+.cache/
+
+# =========================
+# OS / EDITOR FILES
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# LOGS
+# =========================
+*.log
