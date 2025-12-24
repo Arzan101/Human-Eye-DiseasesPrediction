@@ -13,7 +13,7 @@ datasets/
 # MODEL FILES (OPTIONAL)
 # =========================
 *.h5
-*.keras
+#*.keras
 *.pt
 *.onnx
 
